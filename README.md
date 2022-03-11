@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ToolFa](https://tool-fa.ir/)**
-
 - 🌱 I’m currently learning **React and other web technologies**
 
 - 👯 I’m looking to collaborate with **other developers**
