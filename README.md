@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vala</h1>
-<h3 align="center">I'm a web developer from IRAN ,Guilan,Rasht</h3>
+<h3 align="center">I'm a web developer and pentester from IRAN </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React and other web technologies**
+- 🌱 I’m currently learning **Web Pentesting and going to be an bug bounty hunter**
 
-- 👯 I’m looking to collaborate with **other developers**
+- 👯 I’m looking to collaborate with **other developers and hackers**
 
 
 - 📫 How to reach me **valanerd77@gmail.com**
