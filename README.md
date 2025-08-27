@@ -54,17 +54,6 @@
 
 
 
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "hhttps://www.linkedin.com/in/vala-broumand-5a38261b1"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://telegram.org/better_call_vala"><img src="https://img.icons8.com/fluent/50/000000/telegram-app.png"/></a>
-<a href = "https://www.instagram.com/vala_broumand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
 </p>
 
 ## ❤ Views and Followers
